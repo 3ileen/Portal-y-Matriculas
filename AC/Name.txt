@@ -1,0 +1,7 @@
+Nombre del curso             
+Comunicacion                
+Estructuras Discretas I
+IVU                     
+Matematica I              
+Metodologia del Estudio   
+Programacion de videojuegos
